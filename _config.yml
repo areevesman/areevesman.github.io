@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Adam Reevesman"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/headshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "My data science portfolio"
   location         : "Sacramento, CA"
   email            : "areevesman@usfca.edu"
