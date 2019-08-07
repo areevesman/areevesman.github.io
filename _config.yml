@@ -123,10 +123,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/areevesman"
     - label: "Medium"
-      icon: # "fab fa-fw fa-medium"
+      icon: # "fab fa-fw fa-link"
       url: "https://medium.com/@adamreevesman"
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/adamreevesman/"
 
 # Site Footer
