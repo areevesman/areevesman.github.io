@@ -3,7 +3,7 @@ title: "Travels"
 permalink: /travel/
 ---
 
-Here are some pictures from places I recently visited.
+Here are some pictures from places I visited recently.
 
 ## Zion, Bryce Canyon, and Capitol Reef National Parks, Utah
 
@@ -13,3 +13,5 @@ Here are some pictures from places I recently visited.
     <img src="/images/travel/IMG_3415.heic">
     <img src="/images/travel/IMG_3528.heic">
 </figure>
+
+<img src="/images/travel/IMG_3716.heic">
