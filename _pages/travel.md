@@ -19,3 +19,5 @@ Here are some pictures from places I visited recently.
     <a href="/images/travel/IMG_0675.jpg"><img src="/images/travel/IMG_0675.jpg"></a>
     <a href="/images/travel/IMG_0713.jpg"><img src="/images/travel/IMG_0713.jpg"></a>
 </figure>
+
+<img src="/images/travel/IMG_0662.jpg">
