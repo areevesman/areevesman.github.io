@@ -12,7 +12,7 @@ Here are some pictures from places I visited recently.
     <a href="/images/travel/IMG_5415.jpg"><img src="/images/travel/IMG_5415.jpg"></a>
 </figure>
 
-<img src="/images/travel/IMG_5340.jpg">
+
 
 ## Banff National Park and the Canadian Rockies
 
