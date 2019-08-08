@@ -5,6 +5,31 @@ permalink: /travel/
 
 Here are some pictures from places I visited recently.
 
+## Banff National Park and the Canadian Rockies
+
+<img src="/images/travel/IMG_6380.jpg">
+
+<figure class="half">
+    <a href="/images/travel/IMG_4919.jpg"><img src="/images/travel/IMG_4919.jpg"></a>
+    <a href="/images/travel/IMG_5049.jpg"><img src="/images/travel/IMG_5049.jpg"></a>
+</figure>
+
+<img src="/images/travel/IMG_5081.jpg">
+
+<figure class="half">
+    <a href="/images/travel/IMG_5246.jpg"><img src="/images/travel/IMG_5246.jpg"></a>
+    <a href="/images/travel/IMG_5933.jpg"><img src="/images/travel/IMG_5933.jpg"></a>
+</figure>
+
+<img src="/images/travel/IMG_5287.jpg">
+
+<figure class="half">
+    <a href="/images/travel/IMG_7102.jpg"><img src="/images/travel/IMG_7102.jpg"></a>
+    <a href="/images/travel/IMG_5708.jpg"><img src="/images/travel/IMG_5708.jpg"></a>
+</figure>
+
+<img src="/images/travel/IMG_7003.jpg">
+
 ## Oahu, Hawaii
 
 <figure class="half">
