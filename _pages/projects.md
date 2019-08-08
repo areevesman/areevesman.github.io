@@ -12,6 +12,8 @@ Below you will find a variety of my personal projects.
 - [Reinforcement learning for *Snake*](https://github.com/areevesman/reinforcement-learning-for-snake)
      - Training agents to play *Snake* using techniques from reinforcement learning. Tabular Q-learning and Value Function Approximation are implemented (using a simple Neural Network) in Python.
  
+![](https://github.com/areevesman/reinforcement-learning-for-snake/blob/master/images/demo.gif)
+ 
 - [Predicting Reddit Comment Upvotes](https://github.com/areevesman/reddit-upvote-modeling)
     - Predicting how many upvotes a comment will get, given the comment text, user history, subreddit and thread details. Uses Python and scikit-learn.
     - The associated [blog post](https://towardsdatascience.com/predicting-reddit-comment-karma-a8f570b544fc) highlights the workflow and provides a tutorial for those who are new to machine learning, Python, or scikit-learn.
