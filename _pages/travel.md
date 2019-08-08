@@ -5,6 +5,10 @@ permalink: /travel/
 
 Here are some pictures from places I visited recently.
 
+## Oahu, Hawaii
+
+
+
 ## Zion, Bryce Canyon, and Capitol Reef National Parks, Utah
 
 <img src="/images/travel/IMG_1310.jpg">
