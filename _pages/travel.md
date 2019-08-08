@@ -10,6 +10,6 @@ Here are some pictures from places I recently visited.
 <img src="/images/travel/IMG_1310.jpg">
 
 <figure class="half">
-    <img src="/images/travel/IMG_3415.jpg">
-    <img src="/images/travel/IMG_3528.jpg">
+    <img src="/images/travel/IMG_3415.heic">
+    <img src="/images/travel/IMG_3528.heic">
 </figure>
