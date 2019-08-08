@@ -1,5 +1,5 @@
 ---
-title: "Travels"
+title: "Travel"
 permalink: /travel/
 ---
 
