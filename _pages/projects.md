@@ -5,7 +5,7 @@ header:
     image: "/images/banff.png"
 ---
 
-Below you will find a variety of my personal projects. 
+In my free time, I am learning new skills by working on projects that highlight my interests. Here are a few that I am most proud of.
 
 ## Machine learning
 
