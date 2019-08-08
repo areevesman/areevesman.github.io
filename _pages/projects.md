@@ -12,7 +12,7 @@ Below you will find a variety of my personal projects.
 - [Reinforcement learning for *Snake*](https://github.com/areevesman/reinforcement-learning-for-snake)
      - Training agents to play *Snake* using techniques from reinforcement learning. Tabular Q-learning and Value Function Approximation are implemented (using a simple Neural Network) in Python.
  
-![](https://github.com/areevesman/reinforcement-learning-for-snake/blob/master/images/demo.gif)
+![](/images/demo.gif)
  
 - [Predicting Reddit Comment Upvotes](https://github.com/areevesman/reddit-upvote-modeling)
     - Predicting how many upvotes a comment will get, given the comment text, user history, subreddit and thread details. Uses Python and scikit-learn.
@@ -37,7 +37,7 @@ Below you will find a variety of my personal projects.
     
 ## Web applications
 
-- [Phil](https://github.com/areevesman/phil), a travel app
+- [Phil](https://github.com/areevesman/phil), a travel app!
     - Traveling in a group has never been easier. Don't stress about planning your next vacation, let Phil do it for you!
     - A website that allows users to plan trips and suggests activities based on their preferences (currently inactive).
     - [API Documentation](https://msds698.github.io/product-analytics-group-project-phil-minus-phil/)
