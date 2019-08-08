@@ -2,4 +2,4 @@
 
 A personal website designed with the help of the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
-Website: [adamreevesman.com](http://adamreevesman.com)
+Website url: [adamreevesman.com](http://adamreevesman.com)
