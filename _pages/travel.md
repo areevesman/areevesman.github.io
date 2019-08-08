@@ -7,9 +7,10 @@ Here are some pictures from places I visited recently.
 
 ## Yellowstone and Glacier National Parks, Wyoming and Montana
 
-<img src="/images/travel/IMG_5411.jpg">
-
-<img src="/images/travel/IMG_5415.jpg">
+<figure class="half">
+    <a href="/images/travel/IMG_5411.jpg"><img src="/images/travel/IMG_5411.jpg"></a>
+    <a href="/images/travel/IMG_5415.jpg"><img src="/images/travel/IMG_5415.jpg"></a>
+</figure>
 
 <img src="/images/travel/IMG_5340.jpg">
 
