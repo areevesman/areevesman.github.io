@@ -21,9 +21,13 @@ In my free time, I am learning new skills by working on projects that highlight 
     
 ## Data visualization
 
+- [Spotify Wrapped: Data Visualization and Machine Learning on Your Top Songs](https://medium.com/towards-data-science/spotify-wrapped-data-visualization-and-machine-learning-on-your-top-songs-1d3f837a9b27)
+    - Using Spotify Wrapped playlists to tell a story with visualizations and analysis. Created classification models to predict which user would prefer a given song as well.
+    - The [github repository](https://github.com/areevesman/spotify-wrapped) contains the Python code used to create the plots with popular tools like matplotlib and plotly and to create and compare machine learning models with sklearn.
+    
 - [The Simpsons meets Data Visualization](https://towardsdatascience.com/the-simpsons-meets-data-visualization-ef8ef0819d13)
     - Analyzing the episode scripts to tell a story with visualizations and analysis. 
-    - The [github repository](https://github.com/areevesman/the-simpsons) contains the Python code used to create the plots with popular tools like matplotlib, plotly, and altair.
+    - The [github repository](https://github.com/areevesman/the-simpsons) contains the Python code used to create the plots with popular tools like matplotlib, plotly, seaborn, and altair.
     
 -  [A History of Major League Baseball's Active Franchises](https://areevesman.shinyapps.io/history/)
     - A shiny web app for comparing regular season statistics for Major League Baseball franchises.
