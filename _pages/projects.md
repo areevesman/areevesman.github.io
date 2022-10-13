@@ -29,17 +29,6 @@ In my free time, I am learning new skills by working on projects that highlight 
     - Analyzing the episode scripts to tell a story with visualizations and analysis. 
     - The [github repository](https://github.com/areevesman/the-simpsons) contains the Python code used to create the plots with popular tools like matplotlib, plotly, seaborn, and altair.
     
--  [A History of Major League Baseball's Active Franchises](https://areevesman.shinyapps.io/history/)
-    - A shiny web app for comparing regular season statistics for Major League Baseball franchises.
-    - The [github repository](https://github.com/areevesman/mlb_history_web_app) contains the Python code used to scrape the data and the R code used to create the application.
-    
 - [California Apartment Listings](https://areevesman.shinyapps.io/listings_in_california/)
     - A shiny dashboard that displays apartment listings in California.
     - The [github repository](https://github.com/areevesman/housing-shiny) contains the R code used to create the application.
-    
-## Web applications
-
-- [Phil](https://github.com/areevesman/phil), a travel app!
-    - Traveling in a group has never been easier. Don't stress about planning your next vacation, let Phil do it for you!
-    - A website that allows users to plan trips and suggests activities based on their preferences (currently inactive).
-    - [API Documentation](https://msds698.github.io/product-analytics-group-project-phil-minus-phil/)
